@@ -1,0 +1,11 @@
+<!-- test_data.xml -->
+<testCases>
+    <testCase id="1">
+        <description>Simple price series</description>
+        <prices>100.0,101.0,102.5,98.0,105.0</prices>
+    </testCase>
+    <testCase id="2">
+        <description>Volatile market scenario</description>
+        <prices>120.0,110.0,130.0,115.0,125.0</prices>
+    </testCase>
+</testCases>
